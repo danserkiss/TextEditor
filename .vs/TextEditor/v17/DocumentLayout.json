@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dupaa\\Desktop\\pet\\TextEditor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51BE54A5-5D46-47DF-B1E5-0C81721CCAA0}|TextEditor\\TextEditor.vcxproj|C:\\Users\\dupaa\\Desktop\\pet\\TextEditor\\TextEditor\\TextEditor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51BE54A5-5D46-47DF-B1E5-0C81721CCAA0}|TextEditor\\TextEditor.vcxproj|solutionrelative:TextEditor\\TextEditor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextEditor.cpp",
+              "DocumentMoniker": "C:\\Users\\dupaa\\Desktop\\pet\\TextEditor\\TextEditor\\TextEditor.cpp",
+              "RelativeDocumentMoniker": "TextEditor\\TextEditor.cpp",
+              "ToolTip": "C:\\Users\\dupaa\\Desktop\\pet\\TextEditor\\TextEditor\\TextEditor.cpp",
+              "RelativeToolTip": "TextEditor\\TextEditor.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwFEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T10:18:15.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
